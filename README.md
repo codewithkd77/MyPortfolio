@@ -240,7 +240,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help with customization:
 
-- 📧 Email: [your.email@example.com](mailto:rathodkuldeep999.com)
+- 📧 Email: [rathodkuldeep999@gmail.com](mailto:rathodkuldeep999.com)
 - 🐛 Issues: [GitHub Issues](https://github.com/codewithkd77/MyPortfolio/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/codewithkd77/MyPortfolio/discussions)
 
@@ -248,4 +248,4 @@ If you have any questions or need help with customization:
 
 ⭐ **Star this repository if you found it helpful!**
 
-Made with ❤️ by [Your Name](https://github.com/codewithkd77)
+Made with ❤️ by [Kuldeep](https://github.com/codewithkd77)
