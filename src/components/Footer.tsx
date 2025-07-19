@@ -10,10 +10,10 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
             <a href="#" className="text-lg font-bold">
-              Kuldeepsinh<span className="text-primary">.dev</span>
+              Kuldeep<span className="text-primary">.dev</span>
             </a>
             <p className="text-sm text-muted-foreground mt-1">
-              Android Developer & DevOps Enthusiast
+              Flutter Developer & DevOps Enthusiast
             </p>
           </div>
           

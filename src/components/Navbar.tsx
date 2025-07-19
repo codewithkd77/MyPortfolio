@@ -53,9 +53,9 @@ const Navbar = () => {
             </a>
           ))}
           <ThemeToggle />
-          <a href="/Kuldeepsinh_Resume.pdf" download>
-  <Button>Resume</Button>
-</a>
+          <a href="https://drive.google.com/file/d/1OwvGF59L1a4GukUOpGOiUSyf0ZgatY2j/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">
+            <Button>Resume</Button>
+          </a>
 
         </nav>
 
@@ -83,7 +83,9 @@ const Navbar = () => {
                   {item.name}
                 </a>
               ))}
-              <a href="/Aditya_More_New_1.pdf" download className="w-full"> <Button className="w-full">Resume</Button></a>
+              <a href="https://drive.google.com/file/d/1OwvGF59L1a4GukUOpGOiUSyf0ZgatY2j/view?usp=drivesdk" target="_blank" rel="noopener noreferrer" className="w-full">
+                <Button className="w-full">Resume</Button>
+              </a>
             </div>
           </div>
         )}
